@@ -1,2 +1,0 @@
-# MeteoStation
-Estação Meteorológica
