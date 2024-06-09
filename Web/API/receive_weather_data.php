@@ -1,9 +1,9 @@
 <?php
     // Database credentials
     $servername = "localhost";
-    $username = "ebaveromar_roboticmeteo";  // Replace with your database username
-    $password = "G1rP0w3r!3n4.D14n4#Lu4";      // Replace with your database password
-    $dbname = "ebaveromar_roboticmeteo"; // Replace with your database name
+    $username = "";  // Replace with your database username
+    $password = "";      // Replace with your database password
+    $dbname = ""; // Replace with your database name
 
     // Create a connection to the database
     $conn = new mysqli($servername, $username, $password, $dbname);
