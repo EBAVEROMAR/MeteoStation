@@ -1,21 +1,4 @@
-# In the annals of time, there existed a breed of individuals who wore their geekdom and nerdiness 
-# like badges of honor. They were the renegades, the visionaries, the ones who dared to dance to the
-# beat of their own algorithm. They didn't just write code; they sculpted it with passion, 
-# fueled by the thrill of conquest and the joy of creation. 
-# Through sleepless nights and endless lines of code, they pursued the elusive specter of possibility,
-# unyielding in their quest to conquer the impossible and redefine the boundaries 
-# of what was deemed plausible.
 
-# These were the misfits, the rebels, the troublemakers—the square pegs in a world of round holes.
-# Rules were mere suggestions to them, and the status quo was nothing but a challenge 
-# waiting to be dismantled. You could try to ignore them, but their impact was undeniable. 
-# They were the catalysts of change, the architects of progress. 
-# While some dismissed them as eccentric or erratic, we recognized their brilliance. 
-# For it is often the ones deemed crazy enough to believe they can change the world who are precisely 
-# the ones capable of doing so.
-
-# António Cunha Santos AKA SleepDeprivedLoon 08/03/2024 
-# In Memorium Deolinda Oliveira dos Santos 1956-2023 (Quem nasce lagartixa nunca chega a jacaré)
 
 import serial
 import requests
@@ -29,8 +12,8 @@ serial_port = 'COM7'  # Replace with the appropriate serial port
 baud_rate = 9600
 
 # Wunderground API settings
-wunderground_station_id = "IPVOAD5"
-wunderground_api_key = "a99d276be0384c889d276be0386c8848"
+wunderground_station_id = ""
+wunderground_api_key = ""
 wunderground_url = f"https://weatherstation.wunderground.com/weatherstation/updateweatherstation.php"
 
 # PWSWeather API settings
